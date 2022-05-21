@@ -1,1 +1,1 @@
-worker: pip install telebot && python bot.py
+worker: python bot.py
